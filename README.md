@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Navin-Chawla
-- 👀 I’m interested in Python coding and learning
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Python coding and learning.
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on many unique python projects.
 
 <!---
